@@ -1,0 +1,6 @@
+PaymentMethod,avg(MonthlyCharges)
+"Electronic check",68.34100572430256
+"Credit card (automatic)",60.861418697169114
+"Bank transfer (automatic)",63.18443461502565
+"Mailed check",65.75660279868565
+NULL,68.68520985817423
