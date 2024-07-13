@@ -3,10 +3,10 @@
 1,2,32.0,Month-to-month,Yes,Electronic check,76.8451201369704,669.45
 2,3,0.0,Month-to-month,No,Electronic check,55.6141495497026,3791.6
 3,4,72.0,Two year,Yes,Credit card (automatic),108.49116874144,6470.1
-4,5,38.0,Month-to-month,Yes,Bank transfer (automatic),,1496.9
-5,6,72.0,Month-to-month,No,Credit card (automatic),,318.5
-6,7,5.0,Month-to-month,No,Credit card (automatic),,2674.15
-7,8,0.0,Month-to-month,Yes,Electronic check,,5886.85
+4,5,38.0,Month-to-month,Yes,Bank transfer (automatic),NaN,1496.9
+5,6,72.0,Month-to-month,No,Credit card (automatic),NaN,318.5
+6,7,5.0,Month-to-month,No,Credit card (automatic),NaN,2674.15
+7,8,0.0,Month-to-month,Yes,Electronic check,NaN,5886.85
 8,9,0.0,Month-to-month,Yes,Electronic check,98.0097715634181,5025.0
 9,10,4.0,Month-to-month,Yes,Bank transfer (automatic),110.884601756117,6954.15
 10,11,24.0,Month-to-month,Yes,Electronic check,118.75,199.75
@@ -2019,7 +2019,7 @@
 2017,2018,41.0,Month-to-month,No,Electronic check,57.1028258551535,606.25
 2018,2019,11.0,Month-to-month,Yes,Electronic check,56.168412025216,1929.95
 2019,2020,0.0,Month-to-month,Yes,Electronic check,70.2336775484891,1665.2
-2020,2021,15.0,Two year,Yes,Bank transfer (automatic),85.1383235821588,
+2020,2021,15.0,Two year,Yes,Bank transfer (automatic),85.1383235821588,NaN
 2021,2022,22.0,Two year,Yes,Electronic check,81.0757009293546,990.85
 2022,2023,33.0,Month-to-month,Yes,Bank transfer (automatic),39.8377340587022,1031.7
 2023,2024,0.0,Month-to-month,No,Electronic check,27.2799149020961,20.2
@@ -4430,7 +4430,7 @@
 4428,4429,4.0,Month-to-month,Yes,Mailed check,18.25,930.95
 4429,4430,59.0,One year,Yes,Electronic check,118.75,6885.75
 4430,4431,16.0,Month-to-month,Yes,Electronic check,107.677791644296,1208.15
-4431,4432,0.0,Month-to-month,Yes,Electronic check,41.1006511659344,
+4431,4432,0.0,Month-to-month,Yes,Electronic check,41.1006511659344,NaN
 4432,4433,33.0,Two year,No,Mailed check,56.2021680053364,2065.4
 4433,4434,43.0,One year,Yes,Electronic check,48.1474347267856,485.25
 4434,4435,71.0,Month-to-month,No,Bank transfer (automatic),55.9174739851928,784.45
@@ -4517,7 +4517,7 @@
 4515,4516,3.0,Month-to-month,Yes,Electronic check,38.7246503284868,717.5
 4516,4517,48.0,One year,Yes,Mailed check,95.5212298596618,274.7
 4517,4518,35.0,Two year,Yes,Bank transfer (automatic),46.6147433088577,5727.15
-4518,4519,9.0,Month-to-month,Yes,Mailed check,26.3878805853119,
+4518,4519,9.0,Month-to-month,Yes,Mailed check,26.3878805853119,NaN
 4519,4520,50.0,One year,No,Mailed check,84.68272814139,409.9
 4520,4521,22.0,Two year,Yes,Bank transfer (automatic),47.2841535886675,20.2
 4521,4522,45.0,One year,No,Mailed check,57.3372165831617,309.25
@@ -7950,43 +7950,43 @@
 7948,7949,36.0,Month-to-month,No,Credit card (automatic),70.4624115491353,415.1
 7949,7950,46.0,Two year,Yes,Bank transfer (automatic),84.8735696019487,70.5
 7950,7951,40.0,One year,No,Bank transfer (automatic),44.2525829751207,7711.45
-7951,7952,10.0,Month-to-month,Yes,,51.4173576749021,7634.8
-7952,7953,39.0,Month-to-month,Yes,,74.3647449249021,5029.2
-7953,7954,56.0,Month-to-month,Yes,,112.881666512032,45.0
-7954,7955,32.0,Two year,Yes,,85.4111319837679,2237.55
-7955,7956,56.0,Two year,No,,18.25,299.2
-7956,7957,0.0,Month-to-month,Yes,,40.3781161576894,317.25
-7957,7958,1.0,Month-to-month,Yes,,51.2645901694221,1802.15
-7958,7959,22.0,Month-to-month,Yes,,118.75,2948.6
-7959,7960,40.0,Two year,No,,40.4921426288018,6844.5
-7960,7961,33.0,Two year,No,,45.3993723298891,860.85
-7961,7962,23.0,Month-to-month,Yes,,89.9431570110943,5720.35
-7962,7963,42.0,Month-to-month,No,,33.7383830756888,3921.3
-7963,7964,12.0,Month-to-month,Yes,,48.9540392706035,4616.1
-7964,7965,15.0,Two year,Yes,,64.820166838583,4116.15
-7965,7966,26.0,One year,No,,39.1380775802216,918.6
-7966,7967,16.0,Month-to-month,Yes,,60.3522378423629,7939.25
-7967,7968,58.0,Two year,No,,68.1802078878234,2755.35
-7968,7969,25.0,Two year,No,,39.1366527786918,4155.95
-7969,7970,27.0,Month-to-month,No,,31.9435652867789,947.75
-7970,7971,10.0,Month-to-month,Yes,,42.9033252875925,6687.85
-7971,7972,27.0,One year,Yes,,89.0579762346848,641.15
-7972,7973,65.0,Two year,No,,62.0362492518172,6844.5
-7973,7974,47.0,Month-to-month,Yes,,118.75,315.3
-7974,7975,24.0,Month-to-month,No,,68.7068167659324,74.2
-7975,7976,3.0,Month-to-month,Yes,,82.5722006867096,181.1
-7976,7977,46.0,Month-to-month,Yes,,117.145280426303,237.25
-7977,7978,17.0,Month-to-month,Yes,,79.1340499658465,1236.15
-7978,7979,44.0,Month-to-month,No,,89.1984918076993,711.9
-7979,7980,59.0,Two year,Yes,,74.974505343019,520.55
-7980,7981,24.0,Two year,No,,60.8314785862791,518.3
-7981,7982,37.0,Month-to-month,Yes,,96.8822430677914,791.75
-7982,7983,72.0,One year,Yes,,87.7855963686151,2807.65
-7983,7984,23.0,One year,No,,18.25,82.9
-7984,7985,26.0,Month-to-month,Yes,,109.803472766524,1441.8
-7985,7986,0.0,Month-to-month,Yes,,50.3976706538121,1759.4
-7986,7987,19.0,Month-to-month,No,,37.6137745309248,5420.65
-7987,7988,37.0,Month-to-month,No,,70.7315946621823,3320.75
+7951,7952,10.0,Month-to-month,Yes,NaN,51.4173576749021,7634.8
+7952,7953,39.0,Month-to-month,Yes,NaN,74.3647449249021,5029.2
+7953,7954,56.0,Month-to-month,Yes,NaN,112.881666512032,45.0
+7954,7955,32.0,Two year,Yes,NaN,85.4111319837679,2237.55
+7955,7956,56.0,Two year,No,NaN,18.25,299.2
+7956,7957,0.0,Month-to-month,Yes,NaN,40.3781161576894,317.25
+7957,7958,1.0,Month-to-month,Yes,NaN,51.2645901694221,1802.15
+7958,7959,22.0,Month-to-month,Yes,NaN,118.75,2948.6
+7959,7960,40.0,Two year,No,NaN,40.4921426288018,6844.5
+7960,7961,33.0,Two year,No,NaN,45.3993723298891,860.85
+7961,7962,23.0,Month-to-month,Yes,NaN,89.9431570110943,5720.35
+7962,7963,42.0,Month-to-month,No,NaN,33.7383830756888,3921.3
+7963,7964,12.0,Month-to-month,Yes,NaN,48.9540392706035,4616.1
+7964,7965,15.0,Two year,Yes,NaN,64.820166838583,4116.15
+7965,7966,26.0,One year,No,NaN,39.1380775802216,918.6
+7966,7967,16.0,Month-to-month,Yes,NaN,60.3522378423629,7939.25
+7967,7968,58.0,Two year,No,NaN,68.1802078878234,2755.35
+7968,7969,25.0,Two year,No,NaN,39.1366527786918,4155.95
+7969,7970,27.0,Month-to-month,No,NaN,31.9435652867789,947.75
+7970,7971,10.0,Month-to-month,Yes,NaN,42.9033252875925,6687.85
+7971,7972,27.0,One year,Yes,NaN,89.0579762346848,641.15
+7972,7973,65.0,Two year,No,NaN,62.0362492518172,6844.5
+7973,7974,47.0,Month-to-month,Yes,NaN,118.75,315.3
+7974,7975,24.0,Month-to-month,No,NaN,68.7068167659324,74.2
+7975,7976,3.0,Month-to-month,Yes,NaN,82.5722006867096,181.1
+7976,7977,46.0,Month-to-month,Yes,NaN,117.145280426303,237.25
+7977,7978,17.0,Month-to-month,Yes,NaN,79.1340499658465,1236.15
+7978,7979,44.0,Month-to-month,No,NaN,89.1984918076993,711.9
+7979,7980,59.0,Two year,Yes,NaN,74.974505343019,520.55
+7980,7981,24.0,Two year,No,NaN,60.8314785862791,518.3
+7981,7982,37.0,Month-to-month,Yes,NaN,96.8822430677914,791.75
+7982,7983,72.0,One year,Yes,NaN,87.7855963686151,2807.65
+7983,7984,23.0,One year,No,NaN,18.25,82.9
+7984,7985,26.0,Month-to-month,Yes,NaN,109.803472766524,1441.8
+7985,7986,0.0,Month-to-month,Yes,NaN,50.3976706538121,1759.4
+7986,7987,19.0,Month-to-month,No,NaN,37.6137745309248,5420.65
+7987,7988,37.0,Month-to-month,No,NaN,70.7315946621823,3320.75
 7988,7989,72.0,One year,Yes,Credit card (automatic),82.765615720384,6844.5
 7989,7990,62.0,One year,Yes,Bank transfer (automatic),79.4940266266907,2139.2
 7990,7991,72.0,One year,Yes,Bank transfer (automatic),81.3486962767123,62.8
@@ -14107,7 +14107,7 @@
 14105,14106,12.0,Month-to-month,Yes,Electronic check,49.6806890389184,635.9
 14106,14107,47.0,Month-to-month,Yes,Bank transfer (automatic),72.7460292089991,773.2
 14107,14108,41.0,One year,No,Mailed check,65.4618163079822,2576.2
-14108,14109,32.0,Month-to-month,Yes,Mailed check,80.486874119602,
+14108,14109,32.0,Month-to-month,Yes,Mailed check,80.486874119602,NaN
 14109,14110,66.0,One year,No,Credit card (automatic),43.800508439817,295.55
 14110,14111,43.0,Two year,Yes,Mailed check,111.957058429853,6572.85
 14111,14112,16.0,Month-to-month,No,Electronic check,18.25,1713.1
@@ -14357,7 +14357,7 @@
 14355,14356,47.0,Month-to-month,Yes,Electronic check,90.5154166002541,3678.3
 14356,14357,34.0,Month-to-month,Yes,Bank transfer (automatic),84.9564851526399,585.95
 14357,14358,35.0,Month-to-month,Yes,Mailed check,83.009561342296,6844.5
-14358,14359,20.0,One year,Yes,Bank transfer (automatic),57.2889874656856,
+14358,14359,20.0,One year,Yes,Bank transfer (automatic),57.2889874656856,NaN
 14359,14360,36.0,Month-to-month,Yes,Electronic check,118.75,438.25
 14360,14361,54.0,Month-to-month,Yes,Credit card (automatic),64.4781729227909,839.65
 14361,14362,47.0,Two year,Yes,Mailed check,111.942850324416,3941.7
@@ -15319,7 +15319,7 @@
 15317,15318,0.0,Month-to-month,No,Bank transfer (automatic),59.410160471806,270.2
 15318,15319,48.0,Two year,No,Bank transfer (automatic),18.25,1093.4
 15319,15320,46.0,Two year,No,Electronic check,104.143921566314,659.35
-15320,15321,72.0,One year,Yes,Mailed check,97.1603674601244,
+15320,15321,72.0,One year,Yes,Mailed check,97.1603674601244,NaN
 15321,15322,18.0,Month-to-month,Yes,Electronic check,118.75,6844.5
 15322,15323,28.0,Two year,No,Bank transfer (automatic),18.25,21.05
 15323,15324,32.0,Month-to-month,Yes,Mailed check,75.1501620141924,18.85
@@ -15538,7 +15538,7 @@
 15536,15537,72.0,One year,No,Credit card (automatic),118.75,1260.7
 15537,15538,0.0,Month-to-month,No,Mailed check,18.25,57.4
 15538,15539,49.0,Two year,No,Mailed check,68.2740471931164,5025.85
-15539,15540,24.0,Month-to-month,No,Electronic check,18.25,
+15539,15540,24.0,Month-to-month,No,Electronic check,18.25,NaN
 15540,15541,72.0,Two year,No,Credit card (automatic),79.0358134320475,6903.1
 15541,15542,50.0,Month-to-month,Yes,Electronic check,30.4818755234545,392.5
 15542,15543,50.0,Month-to-month,Yes,Bank transfer (automatic),38.3848124337675,185.55
@@ -23408,7 +23408,7 @@
 23406,23407,52.0,Month-to-month,Yes,Electronic check,118.75,1750.85
 23407,23408,23.0,Two year,Yes,Bank transfer (automatic),48.5706325663383,446.05
 23408,23409,72.0,Two year,No,Credit card (automatic),87.4458383956225,2789.7
-23409,23410,0.0,Month-to-month,No,Bank transfer (automatic),18.25,
+23409,23410,0.0,Month-to-month,No,Bank transfer (automatic),18.25,NaN
 23410,23411,32.0,Month-to-month,No,Electronic check,56.2634722340836,229.4
 23411,23412,23.0,Month-to-month,Yes,Credit card (automatic),42.657579557386,273.4
 23412,23413,33.0,Month-to-month,Yes,Electronic check,75.4260302899877,1311.6
@@ -23683,7 +23683,7 @@
 23681,23682,53.0,Month-to-month,Yes,Mailed check,72.6835056208504,706.6
 23682,23683,24.0,Two year,Yes,Mailed check,43.3932131989528,4107.3
 23683,23684,0.0,One year,Yes,Electronic check,83.9055915627421,1776.45
-23684,23685,69.0,Month-to-month,Yes,Credit card (automatic),46.4043567177184,
+23684,23685,69.0,Month-to-month,Yes,Credit card (automatic),46.4043567177184,NaN
 23685,23686,25.0,Month-to-month,Yes,Mailed check,90.7677159184889,1172.95
 23686,23687,4.0,Two year,Yes,Credit card (automatic),118.75,2136.9
 23687,23688,0.0,Month-to-month,No,Bank transfer (automatic),18.25,4348.1
@@ -24349,7 +24349,7 @@
 24347,24348,18.0,Two year,Yes,Bank transfer (automatic),41.0738560536109,391.7
 24348,24349,16.0,Two year,Yes,Credit card (automatic),18.25,6474.4
 24349,24350,45.0,Two year,Yes,Mailed check,82.9058949010342,141.1
-24350,24351,59.0,Two year,Yes,Credit card (automatic),43.828453256534,
+24350,24351,59.0,Two year,Yes,Credit card (automatic),43.828453256534,NaN
 24351,24352,72.0,Two year,No,Bank transfer (automatic),39.5634024386851,1311.6
 24352,24353,15.0,Month-to-month,Yes,Mailed check,76.6749354770429,2686.05
 24353,24354,72.0,Month-to-month,Yes,Mailed check,118.75,3190.65
@@ -28678,7 +28678,7 @@
 28676,28677,0.0,Month-to-month,Yes,Bank transfer (automatic),60.8507927867015,20.2
 28677,28678,0.0,Month-to-month,Yes,Electronic check,75.2952051049753,446.1
 28678,28679,0.0,One year,Yes,Electronic check,18.25,2361.8
-28679,28680,62.0,Two year,Yes,Mailed check,104.697503070275,
+28679,28680,62.0,Two year,Yes,Mailed check,104.697503070275,NaN
 28680,28681,62.0,Two year,No,Bank transfer (automatic),72.4667073168108,196.95
 28681,28682,29.0,Two year,No,Electronic check,37.2576926265243,221.9
 28682,28683,52.0,Two year,No,Mailed check,64.316952382162,5676.0
@@ -30309,7 +30309,7 @@
 30307,30308,41.0,Month-to-month,No,Electronic check,24.7613147802954,3474.2
 30308,30309,72.0,One year,Yes,Bank transfer (automatic),112.991020686378,6844.5
 30309,30310,70.0,Two year,No,Bank transfer (automatic),57.1439565887939,256.25
-30310,30311,47.0,Month-to-month,Yes,Credit card (automatic),75.4834616738592,
+30310,30311,47.0,Month-to-month,Yes,Credit card (automatic),75.4834616738592,NaN
 30311,30312,43.0,Month-to-month,No,Bank transfer (automatic),43.7539374850641,5727.45
 30312,30313,8.0,Month-to-month,Yes,Electronic check,81.6242715743972,4563.0
 30313,30314,19.0,Two year,Yes,Electronic check,87.1768406816993,1067.65
@@ -33908,22 +33908,22 @@
 33906,33907,0.0,Month-to-month,Yes,Mailed check,99.3615622049571,4693.2
 33907,33908,72.0,Two year,No,Credit card (automatic),50.9838612274691,358.05
 33908,33909,56.0,Two year,No,Bank transfer (automatic),111.243215084346,5498.8
-33909,33910,2.0,Month-to-month,,Electronic check,75.6382418733125,7746.7
-33910,33911,21.0,Month-to-month,,Credit card (automatic),92.5354903567327,3829.75
-33911,33912,14.0,Month-to-month,,Mailed check,47.27235703904,7082.45
-33912,33913,61.0,Two year,,Bank transfer (automatic),23.2507312217101,1221.65
-33913,33914,72.0,Month-to-month,,Credit card (automatic),94.0799992417152,7922.75
-33914,33915,44.0,Two year,,Mailed check,89.7021714323434,20.45
-33915,33916,27.0,One year,,Credit card (automatic),18.25,7982.5
-33916,33917,31.0,Month-to-month,,Mailed check,83.9014468868792,258.35
-33917,33918,29.0,Month-to-month,,Bank transfer (automatic),42.0705293173806,3457.45
-33918,33919,33.0,Month-to-month,,Mailed check,93.2453269504077,4155.95
-33919,33920,0.0,Month-to-month,,Mailed check,101.889165953864,878.35
-33920,33921,21.0,Month-to-month,,Credit card (automatic),108.340105558904,1799.3
-33921,33922,66.0,Two year,,Credit card (automatic),118.75,827.7
-33922,33923,59.0,Month-to-month,,Electronic check,59.2720907943538,475.7
-33923,33924,17.0,Month-to-month,,Bank transfer (automatic),76.9189800694101,1798.65
-33924,33925,40.0,Month-to-month,,Credit card (automatic),53.625445607998,4917.9
+33909,33910,2.0,Month-to-month,NaN,Electronic check,75.6382418733125,7746.7
+33910,33911,21.0,Month-to-month,NaN,Credit card (automatic),92.5354903567327,3829.75
+33911,33912,14.0,Month-to-month,NaN,Mailed check,47.27235703904,7082.45
+33912,33913,61.0,Two year,NaN,Bank transfer (automatic),23.2507312217101,1221.65
+33913,33914,72.0,Month-to-month,NaN,Credit card (automatic),94.0799992417152,7922.75
+33914,33915,44.0,Two year,NaN,Mailed check,89.7021714323434,20.45
+33915,33916,27.0,One year,NaN,Credit card (automatic),18.25,7982.5
+33916,33917,31.0,Month-to-month,NaN,Mailed check,83.9014468868792,258.35
+33917,33918,29.0,Month-to-month,NaN,Bank transfer (automatic),42.0705293173806,3457.45
+33918,33919,33.0,Month-to-month,NaN,Mailed check,93.2453269504077,4155.95
+33919,33920,0.0,Month-to-month,NaN,Mailed check,101.889165953864,878.35
+33920,33921,21.0,Month-to-month,NaN,Credit card (automatic),108.340105558904,1799.3
+33921,33922,66.0,Two year,NaN,Credit card (automatic),118.75,827.7
+33922,33923,59.0,Month-to-month,NaN,Electronic check,59.2720907943538,475.7
+33923,33924,17.0,Month-to-month,NaN,Bank transfer (automatic),76.9189800694101,1798.65
+33924,33925,40.0,Month-to-month,NaN,Credit card (automatic),53.625445607998,4917.9
 33925,33926,50.0,One year,Yes,Electronic check,70.3980938513076,832.05
 33926,33927,35.0,Two year,Yes,Credit card (automatic),80.3954389863086,2274.35
 33927,33928,0.0,Month-to-month,No,Mailed check,55.0752474451532,45.75
@@ -34035,23 +34035,23 @@
 34033,34034,25.0,Month-to-month,No,Credit card (automatic),18.25,1970.5
 34034,34035,51.0,Month-to-month,Yes,Mailed check,92.6468624763527,669.0
 34035,34036,6.0,Month-to-month,Yes,Mailed check,112.036800512503,4479.2
-34036,34037,43.0,Month-to-month,,Mailed check,18.25,1445.95
-34037,34038,16.0,Two year,,Bank transfer (automatic),18.25,20.2
-34038,34039,16.0,Two year,,Electronic check,66.324847545781,434.1
-34039,34040,8.0,Month-to-month,,Electronic check,55.3146909637758,4729.3
-34040,34041,16.0,Month-to-month,,Mailed check,58.8843750392847,3005.8
-34041,34042,53.0,Month-to-month,,Bank transfer (automatic),26.2820716735401,62.8
-34042,34043,11.0,Two year,,Credit card (automatic),47.6724969771777,2830.45
-34043,34044,8.0,Month-to-month,,Bank transfer (automatic),75.2356517171657,547.8
-34044,34045,34.0,Month-to-month,,Bank transfer (automatic),22.6852789952072,1493.1
-34045,34046,33.0,Month-to-month,,Mailed check,40.8148157558649,1172.95
-34046,34047,57.0,Two year,,Mailed check,59.5710166419668,196.15
-34047,34048,15.0,Month-to-month,,Bank transfer (automatic),20.156712134543,7138.65
-34048,34049,66.0,Two year,,Bank transfer (automatic),86.0810132338059,24.05
-34049,34050,72.0,Month-to-month,,Electronic check,118.75,1730.65
-34050,34051,56.0,Month-to-month,,Bank transfer (automatic),50.663376757208,1342.15
-34051,34052,33.0,Two year,,Credit card (automatic),25.204323351571,1118.8
-34052,34053,9.0,Month-to-month,,Electronic check,36.4858714512208,5431.4
+34036,34037,43.0,Month-to-month,NaN,Mailed check,18.25,1445.95
+34037,34038,16.0,Two year,NaN,Bank transfer (automatic),18.25,20.2
+34038,34039,16.0,Two year,NaN,Electronic check,66.324847545781,434.1
+34039,34040,8.0,Month-to-month,NaN,Electronic check,55.3146909637758,4729.3
+34040,34041,16.0,Month-to-month,NaN,Mailed check,58.8843750392847,3005.8
+34041,34042,53.0,Month-to-month,NaN,Bank transfer (automatic),26.2820716735401,62.8
+34042,34043,11.0,Two year,NaN,Credit card (automatic),47.6724969771777,2830.45
+34043,34044,8.0,Month-to-month,NaN,Bank transfer (automatic),75.2356517171657,547.8
+34044,34045,34.0,Month-to-month,NaN,Bank transfer (automatic),22.6852789952072,1493.1
+34045,34046,33.0,Month-to-month,NaN,Mailed check,40.8148157558649,1172.95
+34046,34047,57.0,Two year,NaN,Mailed check,59.5710166419668,196.15
+34047,34048,15.0,Month-to-month,NaN,Bank transfer (automatic),20.156712134543,7138.65
+34048,34049,66.0,Two year,NaN,Bank transfer (automatic),86.0810132338059,24.05
+34049,34050,72.0,Month-to-month,NaN,Electronic check,118.75,1730.65
+34050,34051,56.0,Month-to-month,NaN,Bank transfer (automatic),50.663376757208,1342.15
+34051,34052,33.0,Two year,NaN,Credit card (automatic),25.204323351571,1118.8
+34052,34053,9.0,Month-to-month,NaN,Electronic check,36.4858714512208,5431.4
 34053,34054,58.0,One year,Yes,Bank transfer (automatic),36.3999333850553,97.1
 34054,34055,1.0,Month-to-month,No,Electronic check,50.4772804993876,7430.75
 34055,34056,60.0,Two year,No,Mailed check,77.9561632470648,84.85
@@ -34216,18 +34216,18 @@
 34214,34215,33.0,Two year,Yes,Credit card (automatic),82.0724721092079,2862.55
 34215,34216,0.0,Month-to-month,No,Electronic check,34.696517721015,1910.6
 34216,34217,72.0,One year,No,Credit card (automatic),67.9247579030025,3058.15
-34217,34218,51.0,Two year,Yes,,47.7871082858763,1898.1
-34218,34219,6.0,Month-to-month,Yes,,61.800953733753,1971.15
-34219,34220,42.0,Month-to-month,Yes,,118.75,572.2
-34220,34221,33.0,Month-to-month,Yes,,108.639262334942,161.65
-34221,34222,68.0,Two year,No,,98.5887854981554,35.85
-34222,34223,8.0,Month-to-month,No,,46.990197566232,3600.65
-34223,34224,55.0,Month-to-month,Yes,,118.75,78.8
-34224,34225,13.0,Month-to-month,Yes,,80.6417882750757,33.2
-34225,34226,49.0,Month-to-month,No,,18.25,314.6
-34226,34227,34.0,Month-to-month,Yes,,87.587074616369,3217.55
-34227,34228,42.0,Two year,No,,50.8039864212087,40.25
-34228,34229,0.0,Month-to-month,Yes,,55.3958019458953,1095.65
+34217,34218,51.0,Two year,Yes,NaN,47.7871082858763,1898.1
+34218,34219,6.0,Month-to-month,Yes,NaN,61.800953733753,1971.15
+34219,34220,42.0,Month-to-month,Yes,NaN,118.75,572.2
+34220,34221,33.0,Month-to-month,Yes,NaN,108.639262334942,161.65
+34221,34222,68.0,Two year,No,NaN,98.5887854981554,35.85
+34222,34223,8.0,Month-to-month,No,NaN,46.990197566232,3600.65
+34223,34224,55.0,Month-to-month,Yes,NaN,118.75,78.8
+34224,34225,13.0,Month-to-month,Yes,NaN,80.6417882750757,33.2
+34225,34226,49.0,Month-to-month,No,NaN,18.25,314.6
+34226,34227,34.0,Month-to-month,Yes,NaN,87.587074616369,3217.55
+34227,34228,42.0,Two year,No,NaN,50.8039864212087,40.25
+34228,34229,0.0,Month-to-month,Yes,NaN,55.3958019458953,1095.65
 34229,34230,33.0,Two year,Yes,Credit card (automatic),62.2914189390893,936.7
 34230,34231,62.0,Month-to-month,No,Credit card (automatic),34.0837520805485,545.2
 34231,34232,18.0,Month-to-month,Yes,Bank transfer (automatic),118.75,2282.55
@@ -34287,22 +34287,22 @@
 34285,34286,41.0,Month-to-month,No,Mailed check,48.1999847927347,7610.1
 34286,34287,21.0,Month-to-month,Yes,Electronic check,81.1671813874102,199.85
 34287,34288,62.0,Two year,Yes,Bank transfer (automatic),33.9444469015513,20.2
-34288,34289,,Two year,No,Mailed check,83.0521527165549,5869.4
-34289,34290,,Month-to-month,No,Electronic check,73.2422180083794,2184.6
-34290,34291,,Month-to-month,Yes,Mailed check,108.686704954056,3665.55
-34291,34292,,Two year,Yes,Electronic check,81.5199521668866,646.05
-34292,34293,,Month-to-month,Yes,Mailed check,105.515527907256,47.7
-34293,34294,,Two year,Yes,Electronic check,79.1018521905177,317.25
-34294,34295,,Month-to-month,Yes,Mailed check,58.9604919219212,69.95
-34295,34296,,Month-to-month,Yes,Mailed check,112.760734348873,2239.65
-34296,34297,,One year,No,Mailed check,33.9405334726865,19.05
-34297,34298,,Month-to-month,Yes,Electronic check,71.4749283286194,2404.1
-34298,34299,,Month-to-month,Yes,Credit card (automatic),29.1245547368711,1451.6
-34299,34300,,Month-to-month,No,Mailed check,33.5599318447363,20.2
-34300,34301,,Month-to-month,Yes,Mailed check,111.541302092679,546.45
-34301,34302,,Two year,Yes,Bank transfer (automatic),62.5065231536635,130.15
-34302,34303,,Month-to-month,Yes,Credit card (automatic),74.4818210253132,2933.2
-34303,34304,,Two year,Yes,Credit card (automatic),64.5006726806101,20.2
+34288,34289,NaN,Two year,No,Mailed check,83.0521527165549,5869.4
+34289,34290,NaN,Month-to-month,No,Electronic check,73.2422180083794,2184.6
+34290,34291,NaN,Month-to-month,Yes,Mailed check,108.686704954056,3665.55
+34291,34292,NaN,Two year,Yes,Electronic check,81.5199521668866,646.05
+34292,34293,NaN,Month-to-month,Yes,Mailed check,105.515527907256,47.7
+34293,34294,NaN,Two year,Yes,Electronic check,79.1018521905177,317.25
+34294,34295,NaN,Month-to-month,Yes,Mailed check,58.9604919219212,69.95
+34295,34296,NaN,Month-to-month,Yes,Mailed check,112.760734348873,2239.65
+34296,34297,NaN,One year,No,Mailed check,33.9405334726865,19.05
+34297,34298,NaN,Month-to-month,Yes,Electronic check,71.4749283286194,2404.1
+34298,34299,NaN,Month-to-month,Yes,Credit card (automatic),29.1245547368711,1451.6
+34299,34300,NaN,Month-to-month,No,Mailed check,33.5599318447363,20.2
+34300,34301,NaN,Month-to-month,Yes,Mailed check,111.541302092679,546.45
+34301,34302,NaN,Two year,Yes,Bank transfer (automatic),62.5065231536635,130.15
+34302,34303,NaN,Month-to-month,Yes,Credit card (automatic),74.4818210253132,2933.2
+34303,34304,NaN,Two year,Yes,Credit card (automatic),64.5006726806101,20.2
 34304,34305,13.0,Month-to-month,No,Credit card (automatic),18.25,1423.35
 34305,34306,29.0,Month-to-month,Yes,Credit card (automatic),52.4692022683973,369.3
 34306,34307,33.0,Two year,No,Mailed check,51.5072820530809,874.8
@@ -34324,16 +34324,16 @@
 34322,34323,31.0,Month-to-month,No,Mailed check,71.9421500448433,2627.2
 34323,34324,40.0,Month-to-month,Yes,Mailed check,59.7958271299608,3309.25
 34324,34325,37.0,One year,Yes,Mailed check,82.5016210356108,1724.15
-34325,34326,8.0,Month-to-month,No,Mailed check,79.9550675365242,
-34326,34327,39.0,Month-to-month,Yes,Bank transfer (automatic),61.3857305791532,
-34327,34328,0.0,Month-to-month,Yes,Electronic check,49.0186995409133,
-34328,34329,62.0,One year,Yes,Electronic check,92.315814048608,
-34329,34330,16.0,Month-to-month,Yes,Electronic check,26.9024417430732,
-34330,34331,43.0,Month-to-month,No,Mailed check,82.0540516691317,
-34331,34332,19.0,Month-to-month,Yes,Bank transfer (automatic),34.1973737101892,
-34332,34333,0.0,Month-to-month,No,Mailed check,18.25,
-34333,34334,72.0,Two year,Yes,Credit card (automatic),96.7378189338439,
-34334,34335,24.0,Two year,Yes,Mailed check,18.25,
+34325,34326,8.0,Month-to-month,No,Mailed check,79.9550675365242,NaN
+34326,34327,39.0,Month-to-month,Yes,Bank transfer (automatic),61.3857305791532,NaN
+34327,34328,0.0,Month-to-month,Yes,Electronic check,49.0186995409133,NaN
+34328,34329,62.0,One year,Yes,Electronic check,92.315814048608,NaN
+34329,34330,16.0,Month-to-month,Yes,Electronic check,26.9024417430732,NaN
+34330,34331,43.0,Month-to-month,No,Mailed check,82.0540516691317,NaN
+34331,34332,19.0,Month-to-month,Yes,Bank transfer (automatic),34.1973737101892,NaN
+34332,34333,0.0,Month-to-month,No,Mailed check,18.25,NaN
+34333,34334,72.0,Two year,Yes,Credit card (automatic),96.7378189338439,NaN
+34334,34335,24.0,Two year,Yes,Mailed check,18.25,NaN
 34335,34336,67.0,Month-to-month,Yes,Bank transfer (automatic),70.4723204812553,1445.95
 34336,34337,40.0,Month-to-month,Yes,Mailed check,118.75,1442.2
 34337,34338,4.0,Month-to-month,Yes,Electronic check,118.75,6844.5
@@ -34379,15 +34379,15 @@
 34377,34378,0.0,Month-to-month,No,Electronic check,69.8713962077688,74.4
 34378,34379,20.0,One year,Yes,Bank transfer (automatic),18.25,3877.65
 34379,34380,50.0,Two year,Yes,Electronic check,74.5704921122288,453.75
-34380,34381,0.0,Month-to-month,Yes,Mailed check,,20.2
-34381,34382,16.0,Month-to-month,Yes,Mailed check,,75.55
-34382,34383,7.0,Month-to-month,Yes,Mailed check,,20.2
-34383,34384,33.0,Two year,No,Mailed check,,7758.9
-34384,34385,15.0,Month-to-month,Yes,Bank transfer (automatic),,562.7
-34385,34386,16.0,Two year,No,Electronic check,,20.2
-34386,34387,0.0,Month-to-month,No,Electronic check,,6690.75
-34387,34388,0.0,Month-to-month,Yes,Electronic check,,5680.9
-34388,34389,6.0,Month-to-month,Yes,Electronic check,,369.05
+34380,34381,0.0,Month-to-month,Yes,Mailed check,NaN,20.2
+34381,34382,16.0,Month-to-month,Yes,Mailed check,NaN,75.55
+34382,34383,7.0,Month-to-month,Yes,Mailed check,NaN,20.2
+34383,34384,33.0,Two year,No,Mailed check,NaN,7758.9
+34384,34385,15.0,Month-to-month,Yes,Bank transfer (automatic),NaN,562.7
+34385,34386,16.0,Two year,No,Electronic check,NaN,20.2
+34386,34387,0.0,Month-to-month,No,Electronic check,NaN,6690.75
+34387,34388,0.0,Month-to-month,Yes,Electronic check,NaN,5680.9
+34388,34389,6.0,Month-to-month,Yes,Electronic check,NaN,369.05
 34389,34390,0.0,Month-to-month,No,Mailed check,64.8296839520601,20.2
 34390,34391,32.0,Month-to-month,Yes,Electronic check,74.3950624607007,5744.35
 34391,34392,50.0,Month-to-month,No,Mailed check,71.9748519774445,1563.95
@@ -34397,13 +34397,13 @@
 34395,34396,58.0,Two year,Yes,Mailed check,56.3703336624675,779.25
 34396,34397,31.0,Month-to-month,Yes,Mailed check,78.8095760460014,3635.15
 34397,34398,41.0,Month-to-month,Yes,Credit card (automatic),73.7312413300862,4009.2
-34398,34399,48.0,,Yes,Credit card (automatic),69.8423998236162,295.95
-34399,34400,47.0,,No,Mailed check,83.0228334875245,858.6
-34400,34401,12.0,,Yes,Bank transfer (automatic),18.25,810.45
-34401,34402,39.0,,No,Credit card (automatic),31.0695350379285,1405.3
-34402,34403,44.0,,Yes,Mailed check,29.0692799208682,6844.5
-34403,34404,5.0,,Yes,Bank transfer (automatic),22.1964400512489,5012.1
-34404,34405,36.0,,Yes,Electronic check,83.2866304850331,7447.7
+34398,34399,48.0,NaN,Yes,Credit card (automatic),69.8423998236162,295.95
+34399,34400,47.0,NaN,No,Mailed check,83.0228334875245,858.6
+34400,34401,12.0,NaN,Yes,Bank transfer (automatic),18.25,810.45
+34401,34402,39.0,NaN,No,Credit card (automatic),31.0695350379285,1405.3
+34402,34403,44.0,NaN,Yes,Mailed check,29.0692799208682,6844.5
+34403,34404,5.0,NaN,Yes,Bank transfer (automatic),22.1964400512489,5012.1
+34404,34405,36.0,NaN,Yes,Electronic check,83.2866304850331,7447.7
 34405,34406,72.0,One year,Yes,Bank transfer (automatic),64.4043453197164,543.8
 34406,34407,72.0,Two year,Yes,Mailed check,59.4580477827463,6164.7
 34407,34408,23.0,Month-to-month,No,Credit card (automatic),73.255298664325,5538.8

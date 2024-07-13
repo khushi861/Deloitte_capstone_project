@@ -54,43 +54,43 @@
 52,53,Yes,Yes,DSL,Yes,Yes,No,No,No,No
 53,54,Yes,No phone service,Fiber optic,No,No,No,No,No,No
 54,55,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes
-55,56,Yes,Yes,No,,No internet service,No internet service,No internet service,Yes,Yes
-56,57,Yes,Yes,Fiber optic,,No,No,No,Yes,Yes
-57,58,Yes,No,Fiber optic,,Yes,No internet service,No,Yes,Yes
-58,59,Yes,No,DSL,,Yes,Yes,Yes,Yes,Yes
-59,60,Yes,Yes,DSL,,No internet service,No internet service,Yes,Yes,No internet service
-60,61,Yes,Yes,DSL,,Yes,Yes,Yes,No,No internet service
-61,62,Yes,Yes,Fiber optic,,Yes,No,No,No,No
-62,63,No,Yes,No,,No,No,No,No,No
-63,64,Yes,No,Fiber optic,,Yes,No,No,Yes,No
-64,65,Yes,No,No,,Yes,Yes,No internet service,Yes,No internet service
-65,66,Yes,Yes,Fiber optic,,Yes,Yes,No,Yes,Yes
-66,67,Yes,Yes,Fiber optic,,No,No,No,No,No
-67,68,Yes,Yes,DSL,,Yes,No,No,No,No
-68,69,Yes,Yes,DSL,,No,No,Yes,Yes,Yes
-69,70,Yes,No,No,,No internet service,No internet service,No internet service,Yes,No internet service
-70,71,Yes,No phone service,No,,No internet service,Yes,Yes,Yes,No
-71,72,Yes,Yes,Fiber optic,,Yes,Yes,Yes,No internet service,Yes
-72,73,Yes,No,Fiber optic,,No,No,No,No,No
-73,74,Yes,Yes,Fiber optic,,No,Yes,No,Yes,Yes
-74,75,Yes,Yes,Fiber optic,,No,No,Yes,No internet service,No internet service
-75,76,Yes,No,Fiber optic,,Yes,Yes,Yes,Yes,No internet service
-76,77,Yes,Yes,DSL,,Yes,No,Yes,Yes,Yes
-77,78,Yes,No,Fiber optic,,Yes,Yes,Yes,Yes,No
-78,79,Yes,Yes,No,,No internet service,No internet service,No internet service,No internet service,Yes
-79,80,Yes,No,DSL,,Yes,No internet service,Yes,No internet service,No internet service
-80,81,Yes,Yes,No,,No internet service,No internet service,Yes,No internet service,No internet service
-81,82,Yes,No,DSL,,Yes,No,No,Yes,Yes
-82,83,Yes,Yes,No,,Yes,Yes,No,No,Yes
-83,84,No,No phone service,No,,Yes,Yes,Yes,Yes,Yes
-84,85,Yes,Yes,DSL,,Yes,Yes,No internet service,Yes,Yes
-85,86,Yes,No,No,,Yes,Yes,No internet service,Yes,Yes
-86,87,Yes,No,DSL,,No,No,No,Yes,Yes
-87,88,Yes,Yes,No,,Yes,No internet service,Yes,No internet service,No internet service
-88,89,Yes,No,DSL,,Yes,Yes,Yes,Yes,Yes
-89,90,Yes,No,DSL,,No internet service,No internet service,No internet service,No internet service,Yes
-90,91,Yes,Yes,DSL,,No,No,Yes,No,No
-91,92,Yes,Yes,Fiber optic,,Yes,No,No,Yes,No
+55,56,Yes,Yes,No,NaN,No internet service,No internet service,No internet service,Yes,Yes
+56,57,Yes,Yes,Fiber optic,NaN,No,No,No,Yes,Yes
+57,58,Yes,No,Fiber optic,NaN,Yes,No internet service,No,Yes,Yes
+58,59,Yes,No,DSL,NaN,Yes,Yes,Yes,Yes,Yes
+59,60,Yes,Yes,DSL,NaN,No internet service,No internet service,Yes,Yes,No internet service
+60,61,Yes,Yes,DSL,NaN,Yes,Yes,Yes,No,No internet service
+61,62,Yes,Yes,Fiber optic,NaN,Yes,No,No,No,No
+62,63,No,Yes,No,NaN,No,No,No,No,No
+63,64,Yes,No,Fiber optic,NaN,Yes,No,No,Yes,No
+64,65,Yes,No,No,NaN,Yes,Yes,No internet service,Yes,No internet service
+65,66,Yes,Yes,Fiber optic,NaN,Yes,Yes,No,Yes,Yes
+66,67,Yes,Yes,Fiber optic,NaN,No,No,No,No,No
+67,68,Yes,Yes,DSL,NaN,Yes,No,No,No,No
+68,69,Yes,Yes,DSL,NaN,No,No,Yes,Yes,Yes
+69,70,Yes,No,No,NaN,No internet service,No internet service,No internet service,Yes,No internet service
+70,71,Yes,No phone service,No,NaN,No internet service,Yes,Yes,Yes,No
+71,72,Yes,Yes,Fiber optic,NaN,Yes,Yes,Yes,No internet service,Yes
+72,73,Yes,No,Fiber optic,NaN,No,No,No,No,No
+73,74,Yes,Yes,Fiber optic,NaN,No,Yes,No,Yes,Yes
+74,75,Yes,Yes,Fiber optic,NaN,No,No,Yes,No internet service,No internet service
+75,76,Yes,No,Fiber optic,NaN,Yes,Yes,Yes,Yes,No internet service
+76,77,Yes,Yes,DSL,NaN,Yes,No,Yes,Yes,Yes
+77,78,Yes,No,Fiber optic,NaN,Yes,Yes,Yes,Yes,No
+78,79,Yes,Yes,No,NaN,No internet service,No internet service,No internet service,No internet service,Yes
+79,80,Yes,No,DSL,NaN,Yes,No internet service,Yes,No internet service,No internet service
+80,81,Yes,Yes,No,NaN,No internet service,No internet service,Yes,No internet service,No internet service
+81,82,Yes,No,DSL,NaN,Yes,No,No,Yes,Yes
+82,83,Yes,Yes,No,NaN,Yes,Yes,No,No,Yes
+83,84,No,No phone service,No,NaN,Yes,Yes,Yes,Yes,Yes
+84,85,Yes,Yes,DSL,NaN,Yes,Yes,No internet service,Yes,Yes
+85,86,Yes,No,No,NaN,Yes,Yes,No internet service,Yes,Yes
+86,87,Yes,No,DSL,NaN,No,No,No,Yes,Yes
+87,88,Yes,Yes,No,NaN,Yes,No internet service,Yes,No internet service,No internet service
+88,89,Yes,No,DSL,NaN,Yes,Yes,Yes,Yes,Yes
+89,90,Yes,No,DSL,NaN,No internet service,No internet service,No internet service,No internet service,Yes
+90,91,Yes,Yes,DSL,NaN,No,No,Yes,No,No
+91,92,Yes,Yes,Fiber optic,NaN,Yes,No,No,Yes,No
 92,93,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,No
 93,94,Yes,No phone service,Fiber optic,No,Yes,Yes,No,Yes,Yes
 94,95,Yes,No,DSL,Yes,Yes,No,Yes,Yes,Yes
@@ -174,40 +174,40 @@
 172,173,Yes,Yes,Fiber optic,No,No,No,No,No,Yes
 173,174,Yes,No phone service,Fiber optic,No,No,No,No,No,No
 174,175,Yes,No,Fiber optic,No,No,Yes,No,No,No
-175,176,,No,DSL,Yes,No internet service,Yes,Yes,No internet service,Yes
-176,177,,Yes,DSL,No,Yes,No,Yes,Yes,No
-177,178,,No,DSL,Yes,No,No,,Yes,Yes
-178,179,,Yes,DSL,Yes,Yes,No internet service,,Yes,Yes
-179,180,,Yes,Fiber optic,No,No,No,,Yes,Yes
-180,181,,No,Fiber optic,No,No,No,,No,No
-181,182,,No,Fiber optic,No,No,No,,No,No
-182,183,,Yes,DSL,No internet service,No internet service,Yes,,No internet service,No internet service
-183,184,,No phone service,No,Yes,Yes,Yes,,Yes,Yes
-184,185,,No,No,Yes,No internet service,No internet service,,Yes,No internet service
-185,186,,Yes,No,No internet service,No internet service,No internet service,,No internet service,Yes
-186,187,,Yes,Fiber optic,No,Yes,No,,No,No
-187,188,Yes,No,No,Yes,No internet service,No,,Yes,Yes
-188,189,Yes,Yes,Fiber optic,Yes,Yes,Yes,,Yes,Yes
-189,190,Yes,Yes,Fiber optic,Yes,Yes,No internet service,,No internet service,No internet service
-190,191,Yes,Yes,No,Yes,Yes,Yes,,Yes,Yes
-191,192,Yes,No,DSL,No,No,No,,No,Yes
-192,193,Yes,Yes,DSL,No internet service,Yes,Yes,,No internet service,No internet service
-193,194,Yes,No phone service,Fiber optic,No,No,No,,Yes,Yes
-194,195,Yes,No,DSL,No internet service,Yes,No internet service,,Yes,Yes
-195,196,Yes,No,Fiber optic,No,No,Yes,,No,No
-196,197,Yes,No,DSL,Yes,No,Yes,,Yes,Yes
-197,198,Yes,No,Fiber optic,No,No,No,,No,No
-198,199,Yes,Yes,Fiber optic,No,Yes,Yes,,Yes,No
-199,200,Yes,No,DSL,No,No,No,,No,Yes
-200,201,Yes,Yes,Fiber optic,No,No,No,,No,Yes
-201,202,Yes,No,Fiber optic,Yes,No,No,,No,No
-202,203,Yes,No,Fiber optic,No,No,No,,No,No
-203,204,Yes,No,Fiber optic,No,Yes,No,,Yes,Yes
-204,205,Yes,Yes,DSL,No,Yes,No,,No,No
-205,206,Yes,Yes,Fiber optic,No,No,No,,No,No
-206,207,Yes,Yes,Fiber optic,No,No,No,,No,No
-207,208,Yes,No,No,Yes,Yes,Yes,,Yes,Yes
-208,209,Yes,Yes,Fiber optic,No,No,Yes,,Yes,No
+175,176,NaN,No,DSL,Yes,No internet service,Yes,Yes,No internet service,Yes
+176,177,NaN,Yes,DSL,No,Yes,No,Yes,Yes,No
+177,178,NaN,No,DSL,Yes,No,No,NaN,Yes,Yes
+178,179,NaN,Yes,DSL,Yes,Yes,No internet service,NaN,Yes,Yes
+179,180,NaN,Yes,Fiber optic,No,No,No,NaN,Yes,Yes
+180,181,NaN,No,Fiber optic,No,No,No,NaN,No,No
+181,182,NaN,No,Fiber optic,No,No,No,NaN,No,No
+182,183,NaN,Yes,DSL,No internet service,No internet service,Yes,NaN,No internet service,No internet service
+183,184,NaN,No phone service,No,Yes,Yes,Yes,NaN,Yes,Yes
+184,185,NaN,No,No,Yes,No internet service,No internet service,NaN,Yes,No internet service
+185,186,NaN,Yes,No,No internet service,No internet service,No internet service,NaN,No internet service,Yes
+186,187,NaN,Yes,Fiber optic,No,Yes,No,NaN,No,No
+187,188,Yes,No,No,Yes,No internet service,No,NaN,Yes,Yes
+188,189,Yes,Yes,Fiber optic,Yes,Yes,Yes,NaN,Yes,Yes
+189,190,Yes,Yes,Fiber optic,Yes,Yes,No internet service,NaN,No internet service,No internet service
+190,191,Yes,Yes,No,Yes,Yes,Yes,NaN,Yes,Yes
+191,192,Yes,No,DSL,No,No,No,NaN,No,Yes
+192,193,Yes,Yes,DSL,No internet service,Yes,Yes,NaN,No internet service,No internet service
+193,194,Yes,No phone service,Fiber optic,No,No,No,NaN,Yes,Yes
+194,195,Yes,No,DSL,No internet service,Yes,No internet service,NaN,Yes,Yes
+195,196,Yes,No,Fiber optic,No,No,Yes,NaN,No,No
+196,197,Yes,No,DSL,Yes,No,Yes,NaN,Yes,Yes
+197,198,Yes,No,Fiber optic,No,No,No,NaN,No,No
+198,199,Yes,Yes,Fiber optic,No,Yes,Yes,NaN,Yes,No
+199,200,Yes,No,DSL,No,No,No,NaN,No,Yes
+200,201,Yes,Yes,Fiber optic,No,No,No,NaN,No,Yes
+201,202,Yes,No,Fiber optic,Yes,No,No,NaN,No,No
+202,203,Yes,No,Fiber optic,No,No,No,NaN,No,No
+203,204,Yes,No,Fiber optic,No,Yes,No,NaN,Yes,Yes
+204,205,Yes,Yes,DSL,No,Yes,No,NaN,No,No
+205,206,Yes,Yes,Fiber optic,No,No,No,NaN,No,No
+206,207,Yes,Yes,Fiber optic,No,No,No,NaN,No,No
+207,208,Yes,No,No,Yes,Yes,Yes,NaN,Yes,Yes
+208,209,Yes,Yes,Fiber optic,No,No,Yes,NaN,Yes,No
 209,210,Yes,No phone service,Fiber optic,No,No,No,No,Yes,Yes
 210,211,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No
 211,212,Yes,Yes,No,Yes,No internet service,No internet service,Yes,Yes,Yes
@@ -34400,9 +34400,9 @@
 34398,34399,Yes,No,DSL,No internet service,Yes,No internet service,No internet service,No internet service,No internet service
 34399,34400,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,Yes
 34400,34401,Yes,Yes,No,Yes,No internet service,No internet service,No internet service,No internet service,No internet service
-34401,34402,Yes,No,DSL,Yes,No internet service,Yes,,No internet service,Yes
-34402,34403,Yes,Yes,DSL,Yes,Yes,Yes,,Yes,Yes
-34403,34404,Yes,No,DSL,No,Yes,Yes,,Yes,Yes
+34401,34402,Yes,No,DSL,Yes,No internet service,Yes,NaN,No internet service,Yes
+34402,34403,Yes,Yes,DSL,Yes,Yes,Yes,NaN,Yes,Yes
+34403,34404,Yes,No,DSL,No,Yes,Yes,NaN,Yes,Yes
 34404,34405,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,No
 34405,34406,Yes,Yes,DSL,No,Yes,Yes,Yes,No internet service,Yes
 34406,34407,Yes,No,DSL,Yes,No,No,No,Yes,No
